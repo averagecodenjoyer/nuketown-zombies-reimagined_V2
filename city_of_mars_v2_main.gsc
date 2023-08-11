@@ -159,9 +159,6 @@ main_end_CUSTOM()
 
 }
 
-bus_taser_blocker_ee_9()
-{
-}
 perks_from_the_sky_CUSTOM()
 {
 	level thread turn_perks_on_custom();
